@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Mical
-brief-intro: Building... 
+title: Mical's Blog
+brief-intro: 很多事情不是有希望才去坚持, 而是坚持了才有希望.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://Micalhl.github.io" # the base hostname & protocol for your site
 
@@ -27,7 +27,7 @@ description_footer: Mical's Blog
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
 duoshuo_shortname: #hygblog
-disqus_shortname: Mical
+disqus_shortname: hygblog
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
