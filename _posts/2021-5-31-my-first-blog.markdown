@@ -10,18 +10,20 @@ author: Mical
 * content
 {:toc}
 
+这是我的第一篇博文.
+
 {% raw %}
-# Hi there 👋, I'm Mical. :)
+### Hi there 👋, I'm Mical. :)
 
 This is my first blog.
 
-## Some information of me
+### Some information of me
 
 I am a junior middle school student, who comes from Tianjin.<br>
 Tianjin is China's third largest city, and independent municipality with a population of 9.5 million.<br>
 There are many traditional and delicious food, would you like to enjoy it with me?
 
-## Contact me
+### Contact me
 Tencent QQ: 3332366064<br>
 E-Mail: micalhl@sina.cn
 
