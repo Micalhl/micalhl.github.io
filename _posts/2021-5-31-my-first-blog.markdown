@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "我的第一篇博文"
-date: 2021-5-31 20:39:44
+title:  "我的第一篇博文"
+date:   2021-5-31 20:39:44 +0800
 categories: jekyll
 tags: jekyll
+author: Mical
 ---
 
 # Hi there 👋, I'm Mical. :)
